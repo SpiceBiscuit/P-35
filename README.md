@@ -1,2 +1,2 @@
-# P-35
-boom shakalaka
+# p5.play-boilerplate
+Boiler plate for p5.play
